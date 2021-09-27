@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# React game
 1. Create Game Ui
 2. Add Reducer
 3. Add Button Click
