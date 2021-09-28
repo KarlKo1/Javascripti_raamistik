@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Javascripti_raamistik/static/css/main.afd751c9.chunk.css",
+    "main.css": "/Javascripti_raamistik/static/css/main.bdbebd12.chunk.css",
     "main.js": "/Javascripti_raamistik/static/js/main.1ae20e04.chunk.js",
     "main.js.map": "/Javascripti_raamistik/static/js/main.1ae20e04.chunk.js.map",
     "runtime-main.js": "/Javascripti_raamistik/static/js/runtime-main.a8638280.js",
@@ -10,13 +10,13 @@
     "static/js/3.9a856c66.chunk.js": "/Javascripti_raamistik/static/js/3.9a856c66.chunk.js",
     "static/js/3.9a856c66.chunk.js.map": "/Javascripti_raamistik/static/js/3.9a856c66.chunk.js.map",
     "index.html": "/Javascripti_raamistik/index.html",
-    "static/css/main.afd751c9.chunk.css.map": "/Javascripti_raamistik/static/css/main.afd751c9.chunk.css.map",
+    "static/css/main.bdbebd12.chunk.css.map": "/Javascripti_raamistik/static/css/main.bdbebd12.chunk.css.map",
     "static/js/2.48cf6eda.chunk.js.LICENSE.txt": "/Javascripti_raamistik/static/js/2.48cf6eda.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a8638280.js",
     "static/js/2.48cf6eda.chunk.js",
-    "static/css/main.afd751c9.chunk.css",
+    "static/css/main.bdbebd12.chunk.css",
     "static/js/main.1ae20e04.chunk.js"
   ]
 }
